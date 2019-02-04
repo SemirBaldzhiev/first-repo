@@ -1,0 +1,10 @@
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\bin\Debug\netcoreapp2.1\NumberToHexAndBinarry.deps.json
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\bin\Debug\netcoreapp2.1\NumberToHexAndBinarry.runtimeconfig.json
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\bin\Debug\netcoreapp2.1\NumberToHexAndBinarry.runtimeconfig.dev.json
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\bin\Debug\netcoreapp2.1\NumberToHexAndBinarry.dll
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\bin\Debug\netcoreapp2.1\NumberToHexAndBinarry.pdb
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\obj\Debug\netcoreapp2.1\NumberToHexAndBinarry.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\obj\Debug\netcoreapp2.1\NumberToHexAndBinarry.AssemblyInfoInputs.cache
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\obj\Debug\netcoreapp2.1\NumberToHexAndBinarry.AssemblyInfo.cs
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\obj\Debug\netcoreapp2.1\NumberToHexAndBinarry.dll
+C:\Програмиране2019\DataTypes\NumberToHexAndBinarry\obj\Debug\netcoreapp2.1\NumberToHexAndBinarry.pdb

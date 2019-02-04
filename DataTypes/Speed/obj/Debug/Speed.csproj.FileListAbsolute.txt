@@ -1,0 +1,7 @@
+C:\Програмиране2019\DataTypes\Speed\bin\Debug\Speed.exe.config
+C:\Програмиране2019\DataTypes\Speed\bin\Debug\Speed.exe
+C:\Програмиране2019\DataTypes\Speed\bin\Debug\Speed.pdb
+C:\Програмиране2019\DataTypes\Speed\obj\Debug\Speed.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\Speed\obj\Debug\Speed.exe
+C:\Програмиране2019\DataTypes\Speed\obj\Debug\Speed.pdb
+C:\Програмиране2019\DataTypes\Speed\obj\Debug\Speed.csprojAssemblyReference.cache

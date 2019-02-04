@@ -1,0 +1,6 @@
+C:\Програмиране2019\DataTypes\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Програмиране2019\DataTypes\Rectangle\bin\Debug\Rectangle.exe
+C:\Програмиране2019\DataTypes\Rectangle\bin\Debug\Rectangle.pdb
+C:\Програмиране2019\DataTypes\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\Rectangle\obj\Debug\Rectangle.exe
+C:\Програмиране2019\DataTypes\Rectangle\obj\Debug\Rectangle.pdb

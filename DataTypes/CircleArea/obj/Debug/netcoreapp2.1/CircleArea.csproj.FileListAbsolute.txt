@@ -1,0 +1,10 @@
+C:\Програмиране2019\DataTypes\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.deps.json
+C:\Програмиране2019\DataTypes\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.runtimeconfig.json
+C:\Програмиране2019\DataTypes\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.runtimeconfig.dev.json
+C:\Програмиране2019\DataTypes\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.dll
+C:\Програмиране2019\DataTypes\CircleArea\bin\Debug\netcoreapp2.1\CircleArea.pdb
+C:\Програмиране2019\DataTypes\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.AssemblyInfoInputs.cache
+C:\Програмиране2019\DataTypes\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.AssemblyInfo.cs
+C:\Програмиране2019\DataTypes\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.dll
+C:\Програмиране2019\DataTypes\CircleArea\obj\Debug\netcoreapp2.1\CircleArea.pdb

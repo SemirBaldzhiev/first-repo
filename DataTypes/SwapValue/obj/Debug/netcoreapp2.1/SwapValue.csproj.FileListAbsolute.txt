@@ -1,0 +1,10 @@
+C:\Програмиране2019\DataTypes\SwapValue\bin\Debug\netcoreapp2.1\SwapValue.deps.json
+C:\Програмиране2019\DataTypes\SwapValue\bin\Debug\netcoreapp2.1\SwapValue.runtimeconfig.json
+C:\Програмиране2019\DataTypes\SwapValue\bin\Debug\netcoreapp2.1\SwapValue.runtimeconfig.dev.json
+C:\Програмиране2019\DataTypes\SwapValue\bin\Debug\netcoreapp2.1\SwapValue.dll
+C:\Програмиране2019\DataTypes\SwapValue\bin\Debug\netcoreapp2.1\SwapValue.pdb
+C:\Програмиране2019\DataTypes\SwapValue\obj\Debug\netcoreapp2.1\SwapValue.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\SwapValue\obj\Debug\netcoreapp2.1\SwapValue.AssemblyInfoInputs.cache
+C:\Програмиране2019\DataTypes\SwapValue\obj\Debug\netcoreapp2.1\SwapValue.AssemblyInfo.cs
+C:\Програмиране2019\DataTypes\SwapValue\obj\Debug\netcoreapp2.1\SwapValue.dll
+C:\Програмиране2019\DataTypes\SwapValue\obj\Debug\netcoreapp2.1\SwapValue.pdb

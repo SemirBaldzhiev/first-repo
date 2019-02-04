@@ -1,0 +1,10 @@
+C:\Програмиране2019\DataTypes\FloatingPointNumber\bin\Debug\netcoreapp2.1\FloatingPointNumber.deps.json
+C:\Програмиране2019\DataTypes\FloatingPointNumber\bin\Debug\netcoreapp2.1\FloatingPointNumber.runtimeconfig.json
+C:\Програмиране2019\DataTypes\FloatingPointNumber\bin\Debug\netcoreapp2.1\FloatingPointNumber.runtimeconfig.dev.json
+C:\Програмиране2019\DataTypes\FloatingPointNumber\bin\Debug\netcoreapp2.1\FloatingPointNumber.dll
+C:\Програмиране2019\DataTypes\FloatingPointNumber\bin\Debug\netcoreapp2.1\FloatingPointNumber.pdb
+C:\Програмиране2019\DataTypes\FloatingPointNumber\obj\Debug\netcoreapp2.1\FloatingPointNumber.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\FloatingPointNumber\obj\Debug\netcoreapp2.1\FloatingPointNumber.AssemblyInfoInputs.cache
+C:\Програмиране2019\DataTypes\FloatingPointNumber\obj\Debug\netcoreapp2.1\FloatingPointNumber.AssemblyInfo.cs
+C:\Програмиране2019\DataTypes\FloatingPointNumber\obj\Debug\netcoreapp2.1\FloatingPointNumber.dll
+C:\Програмиране2019\DataTypes\FloatingPointNumber\obj\Debug\netcoreapp2.1\FloatingPointNumber.pdb

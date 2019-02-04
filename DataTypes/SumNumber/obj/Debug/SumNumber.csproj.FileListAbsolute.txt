@@ -1,0 +1,7 @@
+C:\Програмиране2019\DataTypes\SumNumber\bin\Debug\SumNumber.exe.config
+C:\Програмиране2019\DataTypes\SumNumber\bin\Debug\SumNumber.exe
+C:\Програмиране2019\DataTypes\SumNumber\bin\Debug\SumNumber.pdb
+C:\Програмиране2019\DataTypes\SumNumber\obj\Debug\SumNumber.csprojAssemblyReference.cache
+C:\Програмиране2019\DataTypes\SumNumber\obj\Debug\SumNumber.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\SumNumber\obj\Debug\SumNumber.exe
+C:\Програмиране2019\DataTypes\SumNumber\obj\Debug\SumNumber.pdb

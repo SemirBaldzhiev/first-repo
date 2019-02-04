@@ -1,0 +1,10 @@
+C:\Програмиране2019\DataTypes\Integer Numbers\bin\Debug\netcoreapp2.1\Integer Numbers.deps.json
+C:\Програмиране2019\DataTypes\Integer Numbers\bin\Debug\netcoreapp2.1\Integer Numbers.runtimeconfig.json
+C:\Програмиране2019\DataTypes\Integer Numbers\bin\Debug\netcoreapp2.1\Integer Numbers.runtimeconfig.dev.json
+C:\Програмиране2019\DataTypes\Integer Numbers\bin\Debug\netcoreapp2.1\Integer Numbers.dll
+C:\Програмиране2019\DataTypes\Integer Numbers\bin\Debug\netcoreapp2.1\Integer Numbers.pdb
+C:\Програмиране2019\DataTypes\Integer Numbers\obj\Debug\netcoreapp2.1\Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\Integer Numbers\obj\Debug\netcoreapp2.1\Integer Numbers.AssemblyInfoInputs.cache
+C:\Програмиране2019\DataTypes\Integer Numbers\obj\Debug\netcoreapp2.1\Integer Numbers.AssemblyInfo.cs
+C:\Програмиране2019\DataTypes\Integer Numbers\obj\Debug\netcoreapp2.1\Integer Numbers.dll
+C:\Програмиране2019\DataTypes\Integer Numbers\obj\Debug\netcoreapp2.1\Integer Numbers.pdb

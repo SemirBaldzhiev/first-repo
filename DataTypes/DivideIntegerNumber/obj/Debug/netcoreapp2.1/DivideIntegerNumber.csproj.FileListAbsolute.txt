@@ -1,0 +1,10 @@
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\bin\Debug\netcoreapp2.1\DivideIntegerNumber.deps.json
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\bin\Debug\netcoreapp2.1\DivideIntegerNumber.runtimeconfig.json
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\bin\Debug\netcoreapp2.1\DivideIntegerNumber.runtimeconfig.dev.json
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\bin\Debug\netcoreapp2.1\DivideIntegerNumber.dll
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\bin\Debug\netcoreapp2.1\DivideIntegerNumber.pdb
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\obj\Debug\netcoreapp2.1\DivideIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\obj\Debug\netcoreapp2.1\DivideIntegerNumber.AssemblyInfoInputs.cache
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\obj\Debug\netcoreapp2.1\DivideIntegerNumber.AssemblyInfo.cs
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\obj\Debug\netcoreapp2.1\DivideIntegerNumber.dll
+C:\Програмиране2019\DataTypes\DivideIntegerNumber\obj\Debug\netcoreapp2.1\DivideIntegerNumber.pdb
