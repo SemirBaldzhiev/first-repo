@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Програмиране2019\\DataTypes\\Integer Numbers\\Integer Numbers.csproj",
+      "projectUniqueName": "E:\\Програмиране 2019\\first-repo\\DataTypes\\Integer Numbers\\Integer Numbers.csproj",
       "projectName": "Integer Numbers",
-      "projectPath": "C:\\Програмиране2019\\DataTypes\\Integer Numbers\\Integer Numbers.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Програмиране2019\\DataTypes\\Integer Numbers\\obj\\",
+      "projectPath": "E:\\Програмиране 2019\\first-repo\\DataTypes\\Integer Numbers\\Integer Numbers.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\Програмиране 2019\\first-repo\\DataTypes\\Integer Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

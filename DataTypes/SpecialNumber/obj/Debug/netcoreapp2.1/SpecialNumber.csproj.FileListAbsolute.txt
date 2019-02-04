@@ -1,0 +1,10 @@
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\bin\Debug\netcoreapp2.1\SpecialNumber.deps.json
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\bin\Debug\netcoreapp2.1\SpecialNumber.runtimeconfig.json
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\bin\Debug\netcoreapp2.1\SpecialNumber.runtimeconfig.dev.json
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\bin\Debug\netcoreapp2.1\SpecialNumber.dll
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\bin\Debug\netcoreapp2.1\SpecialNumber.pdb
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\obj\Debug\netcoreapp2.1\SpecialNumber.csproj.CoreCompileInputs.cache
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\obj\Debug\netcoreapp2.1\SpecialNumber.AssemblyInfoInputs.cache
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\obj\Debug\netcoreapp2.1\SpecialNumber.AssemblyInfo.cs
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\obj\Debug\netcoreapp2.1\SpecialNumber.dll
+E:\Програмиране 2019\first-repo\DataTypes\SpecialNumber\obj\Debug\netcoreapp2.1\SpecialNumber.pdb

@@ -1,0 +1,10 @@
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.deps.json
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.runtimeconfig.json
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.runtimeconfig.dev.json
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.dll
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.pdb
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.csproj.CoreCompileInputs.cache
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.AssemblyInfoInputs.cache
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.AssemblyInfo.cs
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.dll
+E:\Програмиране 2019\first-repo\DataTypes\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.pdb

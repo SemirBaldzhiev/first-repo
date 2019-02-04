@@ -1,0 +1,10 @@
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\bin\Debug\netcoreapp2.1\LatinLetter.deps.json
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\bin\Debug\netcoreapp2.1\LatinLetter.runtimeconfig.json
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\bin\Debug\netcoreapp2.1\LatinLetter.runtimeconfig.dev.json
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\bin\Debug\netcoreapp2.1\LatinLetter.dll
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\bin\Debug\netcoreapp2.1\LatinLetter.pdb
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\obj\Debug\netcoreapp2.1\LatinLetter.csproj.CoreCompileInputs.cache
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\obj\Debug\netcoreapp2.1\LatinLetter.AssemblyInfoInputs.cache
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\obj\Debug\netcoreapp2.1\LatinLetter.AssemblyInfo.cs
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\obj\Debug\netcoreapp2.1\LatinLetter.dll
+E:\Програмиране 2019\first-repo\DataTypes\LatinLetter\obj\Debug\netcoreapp2.1\LatinLetter.pdb
