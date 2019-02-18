@@ -11,7 +11,7 @@ namespace Matrix
 
             int[,] matrix = new int[rows, cols];
 
-            int stopNumber = rows * cols;
+            
 
             int counter = 0;
 
