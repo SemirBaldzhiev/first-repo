@@ -1,33 +1,60 @@
 ﻿using System;
-using System.Linq;
 
-namespace Sort
+namespace Matrix
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int rows = int.Parse(Console.ReadLine());
+            int cols = int.Parse(Console.ReadLine());
 
-           
-            for (int j = 0; j < arr.Length - 1; j++)
+            int[,] matrix = new int[rows, cols];
+
+            int stopNumber = rows * cols;
+
+            int counter = 0;
+
+            int j = 0;
+            int row = 0;
+            
+
+            while (counter < rows * cols)
             {
-                int min = arr[j];
-                int pos = j;
-
-                for (int i = j+1; i < arr.Length; i++)
+                for (int i = row; i < rows - j; i++)
                 {
-                    if (min > arr[i])
-                    {
-                        min = arr[i];
-                        pos = i;
-                    }
+                    matrix[i, j] = ++counter;
                 }
-                arr[pos] = arr[j];
-                arr[j] = min;
+
+                for (int i = row; i < cols - 1 - j; i++)
+                {
+                    matrix[(rows - 1) - j, i + 1] = ++counter;
+                }
+
+                for (int i = row; i < rows - 1 - j; i++)
+                {
+                    matrix[rows - (i + 2), cols - 1 - j] = ++counter;
+                }
+
+                for (int i = row; i < cols - 2 - j; i++)
+                {
+                    matrix[row, cols - (i + 2)] = ++counter;
+                }
+                
+                j++;
+                row++; 
             }
 
-            Console.WriteLine(string.Join(" ", arr));
+               
+            for (int i = 0; i < rows; i++)
+            {
+                for (int k = 0; k < cols; k++)
+                {
+                    Console.Write(matrix[i, k] + " ");
+                }
+
+                Console.WriteLine();
+            }
         }
     }
 }
