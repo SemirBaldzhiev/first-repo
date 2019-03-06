@@ -1,60 +1,33 @@
 ﻿using System;
+using System.Linq;
 
-namespace Matrix
+namespace Raindrops
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int rows = int.Parse(Console.ReadLine());
-            int cols = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+            int density = int.Parse(Console.ReadLine());
 
-            int[,] matrix = new int[rows, cols];
+            double sumCoefficient = 0;
 
-            
-
-            int counter = 0;
-
-            int j = 0;
-            int row = 0;
-            
-
-            while (counter < rows * cols)
+            for (int i = 0; i < n; i++)
             {
-                for (int i = row; i < rows - j; i++)
-                {
-                    matrix[i, j] = ++counter;
-                }
+                int[] regionsInformation = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-                for (int i = row; i < cols - 1 - j; i++)
-                {
-                    matrix[(rows - 1) - j, i + 1] = ++counter;
-                }
+                int raindropsCount = regionsInformation[0];
+                int squareMeters = regionsInformation[1];
 
-                for (int i = row; i < rows - 1 - j; i++)
-                {
-                    matrix[rows - (i + 2), cols - 1 - j] = ++counter;
-                }
+                double regionalCoefficient = raindropsCount / (double)squareMeters;
 
-                for (int i = row; i < cols - 2 - j; i++)
-                {
-                    matrix[row, cols - (i + 2)] = ++counter;
-                }
-                
-                j++;
-                row++; 
+                sumCoefficient += regionalCoefficient;
+
             }
 
-               
-            for (int i = 0; i < rows; i++)
-            {
-                for (int k = 0; k < cols; k++)
-                {
-                    Console.Write(matrix[i, k] + " ");
-                }
+            Console.WriteLine("{0:f3}", sumCoefficient / density);
 
-                Console.WriteLine();
-            }
         }
     }
 }
+
