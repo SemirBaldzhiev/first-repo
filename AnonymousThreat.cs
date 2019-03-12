@@ -71,11 +71,7 @@ namespace AnonymousThreat
                     
                     input.Remove(input[index]);
 
-                    int j = 0;
-                    for (int i = index; i <= (index + partitions) - 1; i++)
-                    {
-                        input.Insert(i, divideElements[j++]);
-                    }
+                    input.InsertRange(index, divideElements);
                     
                 }
 
