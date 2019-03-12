@@ -67,7 +67,7 @@ namespace AnonymousThreat
                         divideElements.Add(input[index].Substring(i * partLength, partLength));
                     }
 
-                    divideElements.Add(input[index].Substring((partitions) * partLength));
+                    divideElements.Add(input[index].Substring((partitions - 1) * partLength));
                     
                     input.Remove(input[index]);
 
