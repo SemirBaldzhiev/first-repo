@@ -21,13 +21,21 @@ namespace RainAir
 
                 string[] customers = input.Split(' ').ToArray();
 
-                if (customers.Contains("="))
+                if (customers[1] == "=")
                 {
                     string firstCustomer = customers[0];
                     string secondCustomers = customers[2];
 
-                    dict[firstCustomer] = dict[secondCustomers];
+                    List<int> values = dict[secondCustomers];
+                    
+                    dict[firstCustomer].Clear();
 
+                    for (int i = 0; i < values.Count; i++)
+                    {
+                        dict[firstCustomer].Add(values[i]);
+                    }
+
+                    
                 }
                 else
                 {
